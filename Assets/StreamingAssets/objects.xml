@@ -4072,6 +4072,17 @@
 			<category>Containers</category>
 			<category>Materials/Wood</category>
 		</object>
+    <object name="Large Pantry Cupboard" shortname="pantry" type="normal">
+			<model location="Objects/FsbUnit.wom"/>
+			<materials>
+				Wooden beams = 2,
+				Large nails = 1,
+        Food storage bins = 4,
+        Planks = 6
+			</materials>
+			<category>Containers</category>
+			<category>Materials/Wood</category>
+		</object>
 		<object name="Wardrobe" shortname="wardrobe" type="normal">
 			<model location="Objects/Wardrobe.wom"/>
 			<materials>
@@ -4971,6 +4982,16 @@
 			<category>Materials/Wood</category>
 		</object>
 		
+    	<object name="Large bar table" shortname="lbTable" type="normal">
+			<model location="Objects/barrelBar.wom"/>
+			<materials>
+				Ribbons = 2,
+        Planks = 15,
+        Small nails = 5
+			</materials>
+			<category>Furniture/Tables</category>
+			<category>Materials/Wood</category>
+		</object>
 		<object name="Large dining table" shortname="lTable" type="normal">
 			<model location="Objects/largeTable.wom"/>
 			<materials>
